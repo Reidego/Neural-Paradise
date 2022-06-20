@@ -1,3 +1,0 @@
-CMake
-face_recognition_models
-dlib

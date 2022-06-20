@@ -2,6 +2,7 @@ name: dlib
 channels:
   - conda-forge
 dependencies:
+  - CMake
   - streamlit >= 0.73
   - dlib
   - face_recognition_models

@@ -1,4 +1,6 @@
 name: neural paradise
+channels:
+- conda-forge
 dependencies:
 - face_recognition_models
 - Click>=6.0

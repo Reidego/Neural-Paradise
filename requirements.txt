@@ -9,6 +9,5 @@ tensorflow-cpu
 torch
 face-alignment
 onnxruntime
-dlib-binary
 gdown
 face_recognition

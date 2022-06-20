@@ -4,7 +4,4 @@ libboost-all-dev
 freeglut3-dev
 cmake
 libopenblas-dev
-libgl1-mesa-glx
-libglib2.0-0
-libgl1-mesa-dev
-python3-opencv
+face_recognition

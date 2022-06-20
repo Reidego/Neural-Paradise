@@ -11,4 +11,3 @@ torch
 face-alignment
 onnxruntime
 gdown
-face_recognition
